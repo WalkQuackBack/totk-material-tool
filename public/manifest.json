@@ -6,6 +6,7 @@
   "version": "0.0.0",
   "start_url": "/index.html",
   "display": "standalone",
+  "dir": "auto",
   "theme_color": "#c9ffc2",
   "background_color": "#c9ffc2",
   "orientation": "any",
