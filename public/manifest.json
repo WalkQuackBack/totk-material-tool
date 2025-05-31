@@ -1,10 +1,14 @@
 {
   "name": "TotK Material Tool",
   "short_name": "MatTool",
+  "id": "totk-mat-tool",
   "description": "material sort tool for TotK",
   "version": "0.0.0",
   "start_url": "/index.html",
   "display": "standalone",
+  "theme_color": "#c9ffc2",
+  "background_color": "#c9ffc2",
+  "orientation": "any",
   "icons": [
     {
       "src": "AppImages/windows11/SmallTile.scale-100.png",
