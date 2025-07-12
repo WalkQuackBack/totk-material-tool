@@ -126,7 +126,7 @@
 <style lang="postcss">
     @reference "tailwindcss";
     [aria-expanded="true"] .chevron {
-        scale: 1 -1;
+        rotate: 180deg
     }
 
     /* fallback */
